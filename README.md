@@ -1,102 +1,75 @@
-<h1 align="center">Hi there 👋, I'm Mahmoud Abdelaziz</h1>
-<h3 align="center">Data Analyst & BI Developer</h3>
-
-<p align="center">
+<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Welcome to my GitHub profile!
-  I'm Mahmoud Abdelaziz , a Data Analyst & BI Developer from Egypt  
-</p>
+  Hey! Nice to see you.
+</h1>
 
----
-
-### 🧠 About Me  
-I'm a passionate **Data Analyst & Business Intelligence Developer** who loves transforming raw data into meaningful insights.  
-I specialize in building **Power BI dashboards**, performing **Python data analysis**, and creating **data models** that drive business decisions.
-
----
-
-### 💡 Core Tools  
-<p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
 <p>
   Welcome to my page! </br>
   I'm <b>Mahmoud Abdelaziz</b>, a <b>Data Analyst & BI Developer</b> from 
   <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> 
-  <b>Egypt</b>.  
+  <b>Egypt</b>.
 </p>
 
 <h3>Things I work with</h3>
-
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-0078D7?style=for-the-badge&logo=power-bi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-
----
-
-### 🛠 Full Tech Stack
-<p>
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logoColor=white" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C8CBF?style=flat-square&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="DAX" src="https://img.shields.io/badge/-DAX-0078D4?style=flat-square&logo=powerbi&logoColor=white" />
-  <img alt="Power Query" src="https://img.shields.io/badge/-Power%20Query-217346?style=flat-square&logo=powerbi&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-9cf?style=flat-square&logo=python&logoColor=black" />
+  <img alt="DAX" src="https://img.shields.io/badge/-DAX-0078D7?style=flat-square&logo=power-bi&logoColor=white" />
+  <img alt="Power Query" src="https://img.shields.io/badge/-Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
----
+<h3>Highlighted Projects</h3>
+<table>
+  <thead align="center">
+    <tr border="none">
+      <td><b>📊 Projects</b></td>
+      <td><b>⭐ Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>AdventureWorks Sales Dashboard</b></td>
+      <td>Interactive Power BI dashboard with star schema and hierarchies.</td>
+    </tr>
+    <tr>
+      <td><b>Smart Parking IoT Analytics</b></td>
+      <td>Analyzed IoT data using Python and Pandas to find usage patterns.</td>
+    </tr>
+    <tr>
+      <td><b>Sales Performance SQL Reports</b></td>
+      <td>Created SQL views for revenue, top branches, and employee KPIs.</td>
+    </tr>
+  </tbody>
+</table>
 
-### 📊 Featured Projects
-| Project | Description |
-|----------|-------------|
-| 🟡 **AdventureWorks Power BI Dashboard** | Designed an interactive BI dashboard using the AdventureWorks dataset, applying hierarchy modeling, DAX measures, and star schema design. |
-| 🟢 **Smart Parking IoT Data Analysis** | Built analytical dashboards and ETL processes for IoT parking data using Power BI and SQL. |
-| 🔵 **Sales Performance Analysis** | Created automated Power BI & Python reports for KPIs and regional sales insights. |
+<h3>My Latest Learning Topics</h3>
+<ul>
+  <li>📈 Advanced DAX and Power BI optimization</li>
+  <li>⚙️ ETL pipelines with Power Query and Azure Data Factory</li>
+  <li>🐍 Python for Machine Learning and Data Science</li>
+  <li>🧱 Data Modeling (Star Schema, Snowflake Schema)</li>
+</ul>
 
----
-
-### 🌐 Connect with Me
-<p align="left">
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/mahmoud-abdelaziz" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mahmoud-abdelaziz-381728340" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
+<hr/>
 <p align="center">
-  <i>"Turning data into insights that drive better decisions."</i>
+  <i>“Turning Data into Insights, and Insights into Impact.”</i>  
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoud-abdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-abdelaziz" />
-</p>
-
----
