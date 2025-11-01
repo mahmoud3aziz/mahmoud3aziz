@@ -6,7 +6,7 @@
 <p>
   Welcome to my page! </br>
   I'm <b>Mahmoud Abdelaziz</b>, a <b>Data Analyst & BI Developer</b> from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197618.png" width="15"/> 
   <b>Egypt</b>.
 </p>
 
@@ -38,25 +38,25 @@
   <tbody>
     <tr>
       <td><b>AdventureWorks Sales Dashboard</b></td>
-      <td>Interactive Power BI dashboard with star schema and hierarchies.</td>
+      <td>Interactive Power BI dashboard using star schema and hierarchies.</td>
     </tr>
     <tr>
       <td><b>Smart Parking IoT Analytics</b></td>
-      <td>Analyzed IoT data using Python and Pandas to find usage patterns.</td>
+      <td>Analyzed IoT parking data using Python & Pandas to extract insights.</td>
     </tr>
     <tr>
       <td><b>Sales Performance SQL Reports</b></td>
-      <td>Created SQL views for revenue, top branches, and employee KPIs.</td>
+      <td>Developed SQL views for revenue, top branches, and KPIs.</td>
     </tr>
   </tbody>
 </table>
 
 <h3>My Latest Learning Topics</h3>
 <ul>
-  <li>📈 Advanced DAX and Power BI optimization</li>
-  <li>⚙️ ETL pipelines with Power Query and Azure Data Factory</li>
-  <li>🐍 Python for Machine Learning and Data Science</li>
-  <li>🧱 Data Modeling (Star Schema, Snowflake Schema)</li>
+  <li>📈 Advanced DAX and Power BI Optimization</li>
+  <li>⚙️ ETL Pipelines with Power Query & Azure Data Factory</li>
+  <li>🐍 Python for Data Science & Machine Learning</li>
+  <li>🧱 Data Modeling (Star Schema & Snowflake Schema)</li>
 </ul>
 
 <h3>Where to find me</h3>
