@@ -6,7 +6,7 @@
 <p>
   Welcome to my page! </br>
   I'm <b>Mahmoud Abdelaziz</b>, a <b>Data Analyst & BI Developer</b> from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197618.png" width="15"/> 
+  <img src="./egypt-flag.png" width="15"/> 
   <b>Egypt</b>.
 </p>
 
