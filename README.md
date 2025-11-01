@@ -6,7 +6,7 @@
 <p>
   Welcome to my page! </br>
   I'm <b>Mahmoud Abdelaziz</b>, a <b>Data Analyst & BI Developer</b> from 
-  <img src="./egypt-flag.png" width="15"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/20px-Flag_of_Egypt.svg.png" width="20"/> <b>Egypt</b>
   <b>Egypt</b>.
 </p>
 
